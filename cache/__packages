@@ -1,0 +1,15 @@
+base
+lattice
+survival
+Formula
+ggplot2
+Hmisc
+caret
+ISLR
+kernlab
+RANN
+randomForest
+rpart
+rattle
+knitr
+rpart.plot
